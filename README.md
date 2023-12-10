@@ -18,3 +18,9 @@ Prediction: I used the data to predict labels.
 The Logistic Regression Model used in this analysis  predict the healthy loan and high-risk loan labels with a high percentage score in accuracy, Precision and recall.
 
 In conclusion I recommend to use the Logistic Regression Model as it aim for high precision and high recall value.
+
+
+To solve this challenge the following websites were consulted:
+https://www.analyticsvidhya.com/blog/2020/09/precision-recall-machine-learning/#:~:text=Precision%20measures%20the%20accuracy%20of,two%20metrics%20in%20some%20cases.
+
+
